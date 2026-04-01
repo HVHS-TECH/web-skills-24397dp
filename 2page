@@ -1,0 +1,42 @@
+<html>
+</head><!DOCTYPE html>
+ 
+<head> 
+ <style>  
+ body {
+  background-color: lightblue;
+}  
+ </style> 
+
+<div class="container">
+  <div><a href="2page.html"> How to play the basic rules </a></div>
+  <div><a href="">  </a></div>
+  <div><a href="">  </a></div>  
+</div>
+
+
+
+
+
+<title> Page Title</title>
+<img src="soccer ball.jpg" alt="soccer ball"   
+
+
+
+<body>
+<h2>this is a heading</h2>
+<p>This is a paragraph</p>
+
+
+<li>football Page</li>
+<li>This is a heading</li> 
+<li>This page is about football how to play football the basic things you should know 
+
+Who won the most world cup and what is the best football club right now and the best player in that team 
+</li>
+
+
+
+</body>
+</html>
+
